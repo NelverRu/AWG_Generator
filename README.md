@@ -23,7 +23,7 @@
   <br>
 
   <a href="https://github.com/NelverRu/AWG_Generator/releases" target="_blank">
-    <img src="https://img.shields.io/badge/📦_Репозиторий_(Releases)-FF9800?style=for-the-badge&logo=github&logoColor=white&labelColor=FF9800&color=FF9800" alt="Releases">
+    <img src="https://img.shields.io/badge/📦_Репозиторий-FF9800?style=for-the-badge&logo=github&logoColor=white&labelColor=FF9800&color=FF9800" alt="Releases">
   </a>
 
 </div>
