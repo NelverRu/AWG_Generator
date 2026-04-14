@@ -1,11 +1,11 @@
-<div align="center">   
+  <div align="center">
   
-![logo](https://github.com/user-attachments/assets/3443d780-70e0-4551-b9cc-369758ba4356)   
-
-<div align="center">
+  # ⚡**Генератор конфигураций для AmneziaWG**⚡
   
-# ⚡ Генератор конфигураций для AmneziaWG ⚡  
-
+  <br>
+  
+  <img src="https://github.com/user-attachments/assets/3443d780-70e0-4551-b9cc-369758ba4356" alt="Line" width="350">  
+  
   <br>  
 
   ### ⚠️ **Клиент должен поддерживать протокол AmneziaWG 1.5 или выше** ⚠️
