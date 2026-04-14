@@ -22,7 +22,7 @@
 
   <h2>
     📥 Скачать последние версии AmneziaWG для ПК и телефона можно в 
-    <a href="https://github.com/amnezia-vpn/amneziawg-go/releases" target="_blank" style="text-decoration: none;">
+    <a href="https://github.com/NelverRu/AWG_Generator/releases" target="_blank" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/📦_Репозиторий_(Releases)-FF9800?style=for-the-badge&logo=github&logoColor=white" alt="Releases">
     </a>
   </h2>
