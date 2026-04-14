@@ -1,3 +1,7 @@
+<div align="center">   
+  
+![logo](https://github.com/user-attachments/assets/3443d780-70e0-4551-b9cc-369758ba4356)   
+
 <div align="center">
   
 # ⚡ Генератор конфигураций для AmneziaWG ⚡  
@@ -9,7 +13,7 @@
   <br>
   
   ![Line](https://github.com/user-attachments/assets/11f2cf05-34d7-4e45-82d7-93513a06c095)  
-  ## ▼ Ссылка на генератор конфигураций ▼
+  ## 🔽 Ссылка на генератор конфигураций 🔽
 
   <br>
 
@@ -20,7 +24,7 @@
   <br>
 
   ![Line](https://github.com/user-attachments/assets/11f2cf05-34d7-4e45-82d7-93513a06c095)  
-  ## 📥 **Скачать последние версии AmneziaWG для ПК и телефона можно в репозитории** 
+  ### 🔽 **Скачать последние версии AmneziaWG для ПК и телефона можно в репозитории** 🔽
 
   <br>
   
