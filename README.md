@@ -17,8 +17,8 @@
 
   <br>
 
-  <a href="https://awggenerator.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🔗_awggenerator.vercel.app-FF9800?style=for-the-badge&logo=vercel&logoColor=white&labelColor=FF9800&color=FF9800" alt="Генератор конфигураций AmneziaWG">
+  <a href="https://my-awg-gen.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🔗_my_awg_gen.vercel.app-FF9800?style=for-the-badge&logo=vercel&logoColor=white&labelColor=FF9800&color=FF9800" alt="Генератор конфигураций AmneziaWG">
   </a>
 
   <br>
